@@ -1,0 +1,15 @@
+CS 112
+Survey of Computer Science
+Dr.Golden
+CS 203
+Computer Programming I
+Mr.Holsten 
+CS 192
+Computer Seminar
+Dr.Bland
+CS 351
+Database Management Systems
+Mr.Lanclos
+MA 300
+Calculus I
+Dr. Wu
